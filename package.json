@@ -1,0 +1,20 @@
+{
+  "name": "utip_ads_counter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^4.1.1",
+    "eventsource": "^1.0.7",
+    "express": "^4.17.1",
+    "express-ws": "^4.0.0",
+    "node-libcurl": "^2.0.3",
+    "pug": "^2.0.4"
+  }
+}
